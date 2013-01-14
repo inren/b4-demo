@@ -1,2 +1,2 @@
-<Context path="/b4">
-</Context>
+<!-- Also set context-path in pom.xml: section "tomcat7-maven-plugin" -->
+<Context path="/b4-demo"></Context>
